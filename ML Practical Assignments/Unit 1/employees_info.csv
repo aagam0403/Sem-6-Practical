@@ -1,0 +1,7 @@
+name,gender,job title,department,residence,phone,time zone
+alex,M,Analyst,Finance,USA,123-456-7890,EST
+bob,M,Clerk,Accounting,UK,234-567-8901,GMT
+clarke,F,Manager,Management,Germany,345-678-9012,CET
+diana,F,Accountant,Accounting,USA,,EST
+eric,,HR,HR,,567-890-1234,PST
+bob,M,Clerk,Accounting,UK,234-567-8901,GMT
